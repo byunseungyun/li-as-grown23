@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://li.as-grown.xyz/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
